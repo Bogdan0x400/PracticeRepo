@@ -1,3 +1,5 @@
 This is my new file.
 Some more changes.
 Even more.
+
+Fantastic!! Amazing!!
